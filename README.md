@@ -1,2 +1,2 @@
-# devopslab-template
-Repositório Template para Importação do Laboratório DevOps &amp; Cloud
+# Devops Hand ON
+Repo de laboratorio de aplicabilidade de pratica DevOps.
